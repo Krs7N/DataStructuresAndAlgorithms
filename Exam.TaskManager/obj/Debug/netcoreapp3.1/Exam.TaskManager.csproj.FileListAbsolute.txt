@@ -1,0 +1,14 @@
+D:\Users\User\Downloads\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.exe
+D:\Users\User\Downloads\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.deps.json
+D:\Users\User\Downloads\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.runtimeconfig.json
+D:\Users\User\Downloads\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.runtimeconfig.dev.json
+D:\Users\User\Downloads\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.dll
+D:\Users\User\Downloads\Exam\Exam.TaskManager\bin\Debug\netcoreapp3.1\Exam.TaskManager.pdb
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.AssemblyInfoInputs.cache
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.AssemblyInfo.cs
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.dll
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.pdb
+D:\Users\User\Downloads\Exam\Exam.TaskManager\obj\Debug\netcoreapp3.1\Exam.TaskManager.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\User\Downloads\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.exe
+D:\Users\User\Downloads\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.deps.json
+D:\Users\User\Downloads\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.runtimeconfig.json
+D:\Users\User\Downloads\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.runtimeconfig.dev.json
+D:\Users\User\Downloads\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.dll
+D:\Users\User\Downloads\Exam\Exam.Categorization\bin\Debug\netcoreapp3.1\Exam.Categorization.pdb
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.AssemblyInfoInputs.cache
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.AssemblyInfo.cs
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.dll
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.pdb
+D:\Users\User\Downloads\Exam\Exam.Categorization\obj\Debug\netcoreapp3.1\Exam.Categorization.genruntimeconfig.cache
